@@ -1,5 +1,6 @@
 # Katas🏯
 
+## Links of Katas on Codewars
 1. [Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d)
 2. [is he gonna survive](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 3. [Who is going to pay for the wall](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
