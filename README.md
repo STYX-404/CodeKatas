@@ -1,5 +1,8 @@
-# Katas🏯
+# My Profile on Codewars
+## [Styx-404](https://www.codewars.com/users/Styx-404) ![codewars](https://www.codewars.com/users/Styx-404/badges/micro)
 
+
+# Katas🏯
 |      Challenge      |       Solution      |     Kyu    |
 |:-------------------|:-------------------|:----------:|
 |[Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)|[Greed_is_Good.js](./Greed_is_Good.js)| `5 kyu`
