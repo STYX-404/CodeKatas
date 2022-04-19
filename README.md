@@ -6,6 +6,7 @@
 |      Challenge      |       Solution      |     Kyu    |
 |:-------------------|:-------------------|:----------:|
 |[Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4)|[Greed_is_Good.js](./Greed_is_Good.js)| `5 kyu`
+|[WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)|[WeIrD_StRiNg_CaSe](./WeIrD_StRiNg_CaSe.js)| `6 kyu`
 |[Simplify the number!](https://www.codewars.com/kata/5800b6568f7ddad2c10000ae)|[Simplify_the_number!.py](./Simplify_the_number!.py)| `6 kyu`
 |[Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)|[Testing_1-2-3.py](./Testing_1-2-3.py)| `7 kyu`
 |[Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)|[Ordered_Count_of_Characters.py](./Ordered_Count_of_Characters.py)|`7 kyu`
